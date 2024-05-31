@@ -1,6 +1,6 @@
 # Inflation Forecasting in the Era of Big Data: Machine Learning and Bayesian Econometrics
 
-In this thesis project the FRED-MD monthly dataset containing macroeconomic time series are used to produce inflation rate forecasts of 12 months ahead. Several forecasting methods are explored which include machine learning, Bayesian and Frequentist approaches. The ML methods included are Random Forest and XGBoost. The Bayesian Econometrics methods include a Bayesian LASSO, Bayesian Ridge, Bayesian VAR and a Time-Varying Parameter VAR. For Frequentist approaches, auto-regressive methods, LASSO, Ridge and Elastic Net are implemented.
+In this Econometrics and Data Science master's thesis project the FRED-MD monthly dataset containing macroeconomic time series are used to produce inflation rate forecasts of 12 months ahead. Several forecasting methods are explored which include machine learning, Bayesian and Frequentist approaches. The ML methods included are Random Forest and XGBoost. The Bayesian Econometrics methods include a Bayesian LASSO, Bayesian Ridge, Bayesian VAR and a Time-Varying Parameter VAR. For Frequentist approaches, auto-regressive methods, LASSO, Ridge and Elastic Net are implemented.
 
 ## Explanation Files
 
