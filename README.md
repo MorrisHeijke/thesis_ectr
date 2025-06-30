@@ -15,7 +15,7 @@ The project contains the following files with a short description of what can be
 - requirements.txt contains the dependencies to be installed to run the code.
 ## Installation
 
-Install my-project with pip
+Install thesis_ectr packages with pip
 
 ```bash
   pip install -r requirements.txt
